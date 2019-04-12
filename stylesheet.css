@@ -6,7 +6,7 @@ body, html {
 
 .bg{
     /* The image used */
-    background-image: url("(15).jpg");
+    background-image: url("16.jpg");
 
     /* Full height */
     height: 100%; 
@@ -17,23 +17,14 @@ body, html {
     background-size: cover;
 }
 
-.blackblock {
-	position: absolute;
-    width: 950px;
-	height: 378px;
-	background-color: black;
-	margin-top: 340px;
-	margin-left: 505px;
-    margin-right: auto;
-}
-
 .container {
     position: absolute;
     width: 950px;
-	height: 378px;
+	height: 410px;
 	background-color: lightgrey;
 	margin-top: 320px;
 	margin-left: 485px;
+	opacity: 0.85;
     margin-right: auto;
 }
 
@@ -56,14 +47,14 @@ input[type=text] {
 	background-color: lightgrey;
 	font-size: 24px;
 	font-family: Lucida Console;
-	color: #a7a7a7;  
+	color: #7c07f6;  
 }
 
 .button_part {
 	position: absolute;
 	top: 40%;
 	left: 10%;
-	color: #6E6E6E;
+	color: #7c07f6;
 }
 
 th, td {
@@ -85,7 +76,7 @@ th, td {
 .button1 {
     background-color: lightgrey;
     border: 2px solid lightgrey;
-	color: #a7a7a7;
+	color: #7c07f6;
 }
 
 .button1:hover {
